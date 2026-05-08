@@ -78,8 +78,8 @@ The building is modeled as a weighted graph where rooms, hallways, and vertical 
 
 ## 👥 Project Team
 
-*   **Mr. K. Uday Bhaskar** — Lead Developer & Systems Architect
 *   **Ms. P. Sravya** — Project Lead & UI/UX Designer
+*   **Mr. K. Uday Bhaskar** — Lead Developer & Systems Architect
 
 *Developed for the Department of Electronics & Communication Engineering, Kuppam Engineering College (KEC).*
 
